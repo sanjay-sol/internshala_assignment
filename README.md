@@ -29,6 +29,9 @@
 
 # Taking Parameter from URl and return its response
 <img width="600" alt="details of param" src="https://user-images.githubusercontent.com/114111046/236871987-62a4687d-b588-404c-8fbb-92189f5984df.png">
+# Taking Parameter from URl and return its value directly .
+
+<img width="600" alt="age 20" src="https://user-images.githubusercontent.com/114111046/236878291-8cfd9a75-b701-439c-bdb9-865e030263c6.png">
 
 
 # 3
