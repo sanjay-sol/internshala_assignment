@@ -2,7 +2,7 @@
 # 1 .
  ## Write a MongoDB query to find all documents in a collection where a particular field has a Value greater than a certain value
 
- # Filepath : server/routes/addUser
+ # Filepath : server/routes/addUser.js
  
  Tested on Postman : 
  # Adding Sample User Details..
@@ -25,7 +25,7 @@
 # 2 .
 ## Write a simple Express.js route that takes in a parameter from the URL and returns it as a response.
 
-# Filepath : server/routes/expressRoute
+# Filepath : server/routes/expressRoute.js
 
 # Taking Parameter from URl and return its response
 <img width="600" alt="details of param" src="https://user-images.githubusercontent.com/114111046/236871987-62a4687d-b588-404c-8fbb-92189f5984df.png">
